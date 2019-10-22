@@ -1,0 +1,6 @@
+name: "Build Database"
+description: "Build Aliga database"
+
+runs:
+  using: "docker"
+  image: "Dockerfile"
